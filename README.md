@@ -1,4 +1,4 @@
-<img width="820" height="448" alt="image" src="https://github.com/user-attachments/assets/1d54d19e-47ba-47cc-a57c-dc806f78319f" />
+
 # 🥗 Personalized Food Composition Analyzer
 
 ## 🔍 Overview
@@ -37,7 +37,7 @@
 ---
 ##	Screen Short
 1.	Index Page (i.e. Home Page)
-
+<img width="820" height="448" alt="image" src="https://github.com/user-attachments/assets/1d54d19e-47ba-47cc-a57c-dc806f78319f" />
  
 2.	About Page
  
