@@ -1,4 +1,4 @@
-
+<img width="820" height="448" alt="image" src="https://github.com/user-attachments/assets/1d54d19e-47ba-47cc-a57c-dc806f78319f" />
 # 🥗 Personalized Food Composition Analyzer
 
 ## 🔍 Overview
@@ -35,6 +35,73 @@
 5. **Display Result**: Outputs a recommendation whether the product is healthy or not.
 
 ---
+##	Screen Short
+1.	Index Page (i.e. Home Page)
+
+ 
+2.	About Page
+ 
+
+
+
+3.	Team Page
+ 
+
+
+4.	Registration Page
+
+
+
+
+   
+
+5.	User Login Page
+ 
+
+
+6.	Admin Login Page
+           
+
+
+
+6.1 Admin Dashboard Page
+ 
+
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+7.	User Dashboard 
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+             
+                                                                                                                                                                 
+
 
 
 
